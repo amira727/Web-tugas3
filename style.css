@@ -29,8 +29,9 @@ header {
 }
 
 .container {
-    max-width: 500px;
-    margin: 20px auto;
+    width: 90%;
+    max-width: 900px;
+    margin: 30px auto;
     padding: 20px;
 }
 
