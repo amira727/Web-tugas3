@@ -125,3 +125,9 @@ footer {
     background: #555;
     color: white;
 }
+
+/* responsive */
+@media (max-width: 768px) {
+  .hero { flex-direction: column; text-align: center; padding: 40px 20px; }
+  .nav-links { display: none; }
+}
